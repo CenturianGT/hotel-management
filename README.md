@@ -7,10 +7,4 @@ javac Main.java
 java Main
 
 The Hotel Management System should now be up and running. Follow the on-screen instructions to interact with the application.
-Group Members
-Palak Beri-2205309
-Nishita Brahma-22051086
-Arijit Dutta-22051148
-Swagnik Ghosal-22051902
-Shubham Sahoo-22052242
-Pratyush Nayak-22053263
+Arijit
